@@ -13,8 +13,9 @@
 
  
   ~> <strong>About me</strong>
-   I'm 14 years old programmer from Russia, learning digital and radio electronics, also web development>. I do parsing orders on a freelance basis. Sometimes
-   I watch anime like JoJo's Bizarre Adventure, Hellsing, Baki the Grappler, Hayao Miyazaki films.
+   I'm 14 years old programmer from Russia, learning digital and radio electronics, also web development.
+   I do parsing orders on a freelance basis. Sometimes I watch anime
+   like JoJo's Bizarre Adventure, Hellsing, Baki the Grappler, Hayao Miyazaki films.
    From music I listen to Aria, Metallica, Radio Tapok, Rammstein.
     
   ~> <strong>Skills</strong>
