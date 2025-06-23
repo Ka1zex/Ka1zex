@@ -13,10 +13,10 @@
 
  
   ~> <strong>About me</strong>
-   I'm 14 years old programmer from Russia, learning digital and radio electronics, also web development.
+   I'm 14 years old programmer from Moskow, Russia, learning digital and radio electronics, also web development.
    I do parsing orders on a freelance basis. Sometimes I watch anime
    like JoJo's Bizarre Adventure, Hellsing, Baki the Grappler, Hayao Miyazaki films.
-   From music I listen to Aria, Metallica, Radio Tapok, Rammstein.
+   From music I listen to Aria, Metallica, Rammstein, King and Jester.
     
   ~> <strong>Skills</strong>
 	   Frontend:      <i>HTML, CSS, SASS, TailwindCSS, JavaScript</i>
@@ -24,7 +24,7 @@
 	   Tools: 	       <i>Git, Davinci Resolve, VScode, Bash</i>
     
   ~> <strong>Future Skills (maybe i will change this, especially in the backend and database)</strong>
-  	   Frontend:      <i>Vite, TypeScript, Vue, Nuxt, Vitest</i>
+  	   Frontend:      <i>Vite, TypeScript, Vue, Vitest</i>
        Backend:       <i>Golang, PostgreSQL</i>
       
   ~> <strong>Contacts</strong>
