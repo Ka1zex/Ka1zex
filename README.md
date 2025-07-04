@@ -30,6 +30,6 @@
   ~> <strong>Contacts</strong>
 	   Telegram:      <i><a rel=me href="https://t.me/kaizex">t.me/Kaizex</a> </i>
 	   VK:            <i><a href="https://vk.com/id657067907">vk.com/id657067907/</a>
-	   Mail:          <i><a href="mailto:vostryakov.artem@inbox.ru">vostryakov.artem@inbox.ru</a></i>
+	   Steam:         <i><a href="https://steamcommunity.com/profiles/76561199441803581/">steamcommunity.com/profiles/76561199441803581/</a></i>
  </pre>
 </big>
