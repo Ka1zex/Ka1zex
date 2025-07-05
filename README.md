@@ -15,7 +15,7 @@
   ~> <strong>About me</strong>
    I'm programmer from Moskow, Russia, learning digital and radio electronics, also web development.
    I do parsing orders on a freelance basis. Sometimes I watch anime
-   like JoJo's Bizarre Adventure, Hellsing, Baki the Grappler, Hayao Miyazaki films.
+   like JoJo's Bizarre Adventure, Hayao Miyazaki films.
    From music I listen to Aria, Metallica, Rammstein, King and Jester.
     
   ~> <strong>Skills</strong>
