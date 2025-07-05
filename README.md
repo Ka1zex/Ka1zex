@@ -25,7 +25,7 @@
     
   ~> <strong>Future Skills (maybe i will change this, especially in the backend and database)</strong>
   	   Frontend:      <i>Vite, TypeScript, Vue, Vitest</i>
-       Backend:       <i>Golang, PostgreSQL</i>
+       Backend:       <i>Django, PostgreSQL</i>
       
   ~> <strong>Contacts</strong>
 	   Telegram:      <i><a rel=me href="https://t.me/kaizex">t.me/Kaizex</a> </i>
