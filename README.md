@@ -20,7 +20,7 @@
     
   ~> <strong>Skills</strong>
 	   Frontend:      <i>HTML, CSS, SASS, TailwindCSS, JavaScript</i>
-	   Backend:       <i>Flask, PostgreSQL</i>
+	   Backend:       <i>Golang, PostgreSQL, MongoDB</i>
 	   Python:        <i>SQLite, Aiogram, Parsing</i>
 	   Tools: 	       <i>Git, Davinci Resolve, VScode, Bash</i>
     
