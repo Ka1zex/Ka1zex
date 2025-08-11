@@ -19,14 +19,9 @@
    From music I listen to Aria, Metallica, Rammstein, King and Jester.
     
   ~> <strong>Skills</strong>
-	   Frontend:      <i>HTML, CSS, SASS, TailwindCSS, JavaScript</i>
-	   Backend:       <i>Golang, PostgreSQL, MongoDB</i>
-	   Python:        <i>SQLite, Aiogram, Parsing</i>
+	   Frontend:      <i>HTML, CSS, SASS, TailwindCSS, JavaScript, TypeScript, Alpine.js</i>
+	   Backend:       <i>Python, FastAPI, mySQL, SQLite</i>
 	   Tools: 	       <i>Git, Davinci Resolve, VScode, Bash</i>
-    
-  ~> <strong>Future Skills (maybe i will change this, especially in the backend and database)</strong>
-  	   Frontend:      <i>Vite, TypeScript, Vue, Vitest</i>
-       Backend:       <i>Django, PostgreSQL</i>
       
   ~> <strong>Contacts</strong>
 	   Telegram:      <i><a rel=me href="https://t.me/kaizex">t.me/Kaizex</a> </i>
