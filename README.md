@@ -19,7 +19,7 @@
    From music I listen to Aria, Metallica, Rammstein, King and Jester.
     
   ~> <strong>Skills</strong>
-	   Frontend:      <i>HTML, CSS, SASS, TailwindCSS, JavaScript, TypeScript, Alpine.js, React, React Router, React Query, Axios, Vite</i>
+	   Frontend:      <i>HTML, CSS, SASS, TailwindCSS, JavaScript, TypeScript, Alpine.js, React, Vite</i>
 	   Backend:       <i>Python, FastAPI, mySQL, SQLite</i>
 	   Tools: 	       <i>Git, Davinci Resolve, VScode, Bash</i>
       
