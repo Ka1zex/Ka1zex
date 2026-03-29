@@ -3,7 +3,7 @@
 💫 About
 
 
-я кодер из города Москва, начал свой путь в 2022 году с изучения цифровой эллектроники и Assembly. на данный момент занимаюсь изучением Golang для создания backend для своих приложений на Svelte.
+я кодер из города Москва, начал свой тернистый путь в 2022 году с изучения цифровой эллектроники и Assembly. на данный момент занимаюсь изучением Golang для создания backend для своих приложений на Svelte.
 на данный момент мои основные языки программирования это Golang и TypeScript. 
 
 ## Языки
@@ -24,3 +24,6 @@
 </p>
 
 
+
+</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ka1zex&theme=tokyo-night&hide_border=true" alt="Contrinbution Graph" />
