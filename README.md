@@ -4,7 +4,7 @@
 
 
 я кодер из города Москва, начал свой путь в 2022 году с изучения цифровой эллектроники и Assembly. на данный момент занимаюсь изучением Golang для создания backend для своих приложений на Svelte.
-на данный момент мои основные языки программирования это Golang и TypeScript. 
+на данный момент мои основные языки программирования это PHP и TypeScript. 
 
 ## Языки
 <p align="center">
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logo=assembly&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-%2300599C.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Golang-%2300599C.svg?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-%2300599C.svg?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ## Frameworks
@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/taildwindcss-%23ff3e00.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-%23ff3e00.svg?style=for-the-badge&logo=astro&logoColor=white" />
 <img src="https://img.shields.io/badge/Svelte-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-%23ff3e00.svg?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-%23ff3e00.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
